@@ -1,20 +1,3 @@
-export const Button = ({
-  onClick,
-  disabled,
-  className,
-  primary,
-  danger,
-  children,
-}) => {
-  return (
-    <button
-      className={`${danger && 'bg-danger'} ${
-        primary && 'bg-primary'
-      } ${className}`}
-      onClick={onClick}
-      disabled={disabled}
-    >
-      {children}
-    </button>
-  )
+export const Button = ({}) => {
+  return <button>Click me</button>
 }

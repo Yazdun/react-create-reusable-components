@@ -34,6 +34,10 @@ body {
   max-width: 50rem;
 }
 
+h1 {
+  text-align: center;
+}
+
 h2 {
   font-size: 3rem;
   font-weight: bold;
