@@ -29,11 +29,6 @@ body {
   padding: 2rem;
 }
 
-#root {
-  width: 100%;
-  max-width: 50rem;
-}
-
 h2 {
   font-size: 3rem;
   font-weight: bold;
@@ -83,7 +78,7 @@ button:disabled:hover {
 }
 
 .custom-container {
-  padding: 2rem;
+  padding: 3rem;
   border-radius: 1rem;
   display: flex;
   flex-direction: column;
@@ -93,6 +88,7 @@ button:disabled:hover {
   width: 100%;
   margin: 1rem 0;
   width: 100%;
+  max-width: 50rem;
 }
 
 .input {

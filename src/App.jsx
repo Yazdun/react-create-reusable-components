@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div>
-      <Container as="div" className="custom-container bg-danger">
+      <Container as="div" className="custom-container bg-secondary">
         <h2>{name || 'No name provided !'}</h2>
         <p className="text-secondary">
           This is subtitle for container 1 ! how cool is that?
@@ -20,13 +20,9 @@ function App() {
           value={name}
           onChange={handleNameChange}
         />
-        <Button danger onClick={() => setName('Button is clicked')}>
+        <Button primary onClick={() => setName('Button is clicked')}>
           Click me baby !
         </Button>
-      </Container>
-      <Container as="div" className="custom-container bg-primary">
-        <h2>Container 1</h2>
-        <p>This is subtitle for container 2 ! and it has blue background !</p>
       </Container>
     </div>
   )
