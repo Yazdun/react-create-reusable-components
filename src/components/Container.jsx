@@ -1,12 +1,13 @@
 export const Container = ({
   as: Element = 'div',
   children,
-  className,
+  className = 'bg-secondary',
   ...rest
 }) => {
   return (
-    <Element {...rest} className={`test ${className}`}>
+    <Element {...rest} className={`custom-container ${className}`}>
       {children}
+      <p>and this is a default text !</p>
     </Element>
   )
 }

@@ -29,20 +29,8 @@ body {
   padding: 2rem;
 }
 
-<<<<<<< HEAD
-#root {
-  width: 100%;
-  max-width: 50rem;
-}
-
-h1 {
-  text-align: center;
-}
-
-=======
->>>>>>> final
 h2 {
-  font-size: 3rem;
+  font-size: 2rem;
   font-weight: bold;
 }
 

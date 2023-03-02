@@ -8,13 +8,14 @@ function App() {
 
   return (
     <div>
-      <Container as="div" className="custom-container bg-secondary">
+      <Container as="div">
         <h2>{name || 'No name provided !'}</h2>
         <p className="text-secondary">
-          This is subtitle for container 1 ! how cool is that?
+          This is subtitle for the container ! how cool is that?
         </p>
         <Input
           label="Name"
+          placeholder="write something ..."
           id="name"
           type="text"
           value={name}
