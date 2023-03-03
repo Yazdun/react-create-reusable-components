@@ -1,3 +1,16 @@
+/*-------------------------------------------------------------------
+|
+|                        🐼 Hello there!
+|
+|   I've built this application to demonstrate how to create reusable
+|   functional components in React. To read the full blog post, please
+|   visit the following link:
+|   
+|   🔗 Read on hashnode : 
+|   🔗 Starter files    :
+|
+*-------------------------------------------------------------------*/
+
 import { useState } from 'react'
 import { Button, Container, Input } from './components'
 
