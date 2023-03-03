@@ -7,7 +7,7 @@
 |   visit the following link:
 |   
 |   🔗 Read on hashnode : 
-|   🔗 Starter files    :
+|   🔗 Starter files    : https://github.com/Yazdun/react-create-reusable-components/tree/starter
 |
 *-------------------------------------------------------------------*/
 
