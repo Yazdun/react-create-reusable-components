@@ -5,7 +5,7 @@ complete the readme file ...
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://www.frontendmentor.io/profile/Yazdun">
+  <a href="https://twitter.com/Yazdun">
     <img src="./public/favicon.ico" alt="Logo" width="80" height="80">
   </a>
 
@@ -14,7 +14,7 @@ complete the readme file ...
   <p align="center">
     A Beginner's Guide
     <br />
-    <a href=""><strong>Read on Hashnode »</strong></a>
+    <a href="https://yazdun.hashnode.dev/creating-reusable-react-components"><strong>Read on Hashnode »</strong></a>
     <br />
     <br />
     <a href="https://react-create-reusable-components.netlify.app/">View Demo</a>
@@ -46,8 +46,8 @@ React. So, let's get started!
 # Getting Started
 
 To get started with this repository, I recommend you to read my
-[Creating Reusable React Component](test) blog post on hashnode where I
-demonstrate how to use this repository properly.
+[Creating Reusable React Component](https://yazdun.hashnode.dev/creating-reusable-react-components)
+blog post on hashnode where I demonstrate how to use this repository properly.
 
 In case you just want to run the final version on your machine and explore the
 code on your own, please follow this steps below:
