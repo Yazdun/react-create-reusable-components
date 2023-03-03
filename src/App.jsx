@@ -3,7 +3,6 @@ import { Button, Container, Input } from './components'
 
 function App() {
   const [name, setName] = useState('')
-
   const handleNameChange = event => setName(event.target.value)
 
   return (

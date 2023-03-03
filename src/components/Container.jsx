@@ -1,3 +1,11 @@
+/*-------------------------------------------------------------------
+|  🐼 React FC Container
+|
+|  🐯 Purpose: Configurable container component.
+|
+|  🐸 Returns:  JSX
+*-------------------------------------------------------------------*/
+
 export const Container = ({
   as: Element = 'div',
   children,

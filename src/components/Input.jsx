@@ -1,3 +1,11 @@
+/*-------------------------------------------------------------------
+|  🐼 React FC Input
+|
+|  🐯 Purpose: Configurable input component.
+|
+|  🐸 Returns:  JSX
+*-------------------------------------------------------------------*/
+
 export const Input = ({ label, placeholder, type, value, id, onChange }) => {
   return (
     <div className="input">

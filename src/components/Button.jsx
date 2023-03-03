@@ -1,3 +1,11 @@
+/*-------------------------------------------------------------------
+|  🐼 React FC Button
+|
+|  🐯 Purpose: Configurable button component.
+|
+|  🐸 Returns:  JSX
+*-------------------------------------------------------------------*/
+
 export const Button = ({
   onClick,
   disabled,
