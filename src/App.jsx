@@ -6,7 +6,7 @@
 |   functional components in React. To read the full blog post, please
 |   visit the following link:
 |   
-|   🔗 Read on hashnode : 
+|   🔗 Read on hashnode : https://yazdun.hashnode.dev/creating-reusable-react-components
 |   🔗 Starter files    : https://github.com/Yazdun/react-create-reusable-components/tree/starter
 |
 *-------------------------------------------------------------------*/
