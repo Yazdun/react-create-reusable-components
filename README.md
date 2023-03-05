@@ -1,5 +1,3 @@
-complete the readme file ...
-
 <div id="top"></div>
 
 <!-- PROJECT LOGO -->
